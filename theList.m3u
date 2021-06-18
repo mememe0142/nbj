@@ -48,7 +48,7 @@ http://rtmp.one.by:2300/
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2018/03/09082939/logo_global.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true",KAKM Anchorage
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/320px-PBS_logo.svg.png",KAKM Anchorage
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-80s-us.png",Loop 80s
@@ -78,10 +78,10 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Isuma_logo.png",Uvagut TV 
 http://dee7mwgg9dzvl.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true",WGBH2 Boston
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/320px-PBS_logo.svg.png",WGBH2 Boston
 https://wgbhdt.lls.cdn.pbs.org/wgbhdt/7387eb2c-e0ce-4069-82d9-08865df87edf/primary.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true",WNET New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/320px-PBS_logo.svg.png",WNET New York
 https://rtmp-wnetdt.lls.cdn.pbs.org/rtmp-wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wvo2EYr.jpg",Xite
