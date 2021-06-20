@@ -1,19 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png",&privé
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://indopacifichealthsecurity.dfat.gov.au/sites/default/files/news-logo-2017---desktop-print-data.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC Perth
 https://c.mjh.nz/3201026102E1/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png",Arte de
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png",Arte fr
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.theconnectiv.co.ke/wp-content/uploads/2018/09/Africanews._alternative_logo_2016-1.png",AfricaNews
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/240px-BBC_News_2019.svg.png",BBC News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+http://91.218.60.3:8001/play/a00t
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
@@ -48,6 +48,12 @@ http://rtmp.one.by:2300/
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2018/03/09082939/logo_global.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WXZ6MB.png",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1280px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/320px-PBS_logo.svg.png",KAKM Anchorage
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 
@@ -60,6 +66,9 @@ https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/61415
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/36_fce308af261ee4c2d35940d49390b4da-h169_w300_fit.png",OML on Revry
 https://linear-73.frequency.stream/73/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png",PBS World
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://qwest.tv/images/logo-qwest-blanc_1-p-500.png",Qwest Tv Jazz
 https://qwest-jazz-vizio.amagi.tv/playlist.m3u8
 
@@ -71,6 +80,12 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDFf/Stingray-DJazz_400x400.png",Stingray djazz
 https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.tou.tv/c_scale,q_auto,w_380,/v1/ici-tou-tv/chaine-logo/perso/tele-quebec.png",Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/320px-TVA_logo_2020.svg.png",TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/320px-TVO_logo.svg.png",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
