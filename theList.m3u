@@ -103,7 +103,7 @@ http://dee7mwgg9dzvl.cloudfront.net/live.m3u8
 https://wgbhdt.lls.cdn.pbs.org/wgbhdt/7387eb2c-e0ce-4069-82d9-08865df87edf/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NewBeatJen/work/main/WNETpbs.png",WNET New York
-https://rtmp-wnetdt.lls.cdn.pbs.org/rtmp-wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
+https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NewBeatJen/work/main/XITE.png",Xite
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
